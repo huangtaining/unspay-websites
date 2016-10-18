@@ -1,0 +1,32 @@
+/*.tsf_step{
+    background: url("../../static/logind/transfer/zz1.jpg");
+    background-size: 1200px 149px;
+    width: 100%;
+    height: 149px;
+}
+.tsf_step2{
+    background: url("../../static/logind/transfer/zz2.jpg");
+    background-size: 1200px 149px;
+    width: 100%;
+    height: 149px;
+}
+.tsf_step3{
+    background: url("../../static/logind/transfer/zz3.jpg");
+    background-size: 1200px 149px;
+    width: 100%;
+    height: 149px;
+}
+.succ{
+    border: 1px dashed #ccc;
+    padding: 50px 60px;
+    overflow: hidden;
+}
+.succl{
+       height: 80px;
+       line-height: 40px;
+}
+.succr{
+      height: 80px;
+    line-height: 80px;
+}*/
+

@@ -1,0 +1,128 @@
+.collection h4{
+    color:#333333;
+}
+.collection .shouk{
+    margin-top:56px;
+    color:#585858;
+}
+.subcon{
+    width:1200px;
+    padding:28px;
+    height:658px;
+    background-color:white;
+    border:1px solid #E8E8E8;
+}
+/*progress开始*/
+.progress{
+    width:100%;
+    height:12%;
+    float:left;
+    margin-top:20px;
+    margin-bottom: 5%;
+}
+.progress li{
+    float:left;
+    position:relative;
+}
+.firstli{
+    width:37%;
+    height:69%;
+    float:left;
+    padding-top:1.75%;
+
+}
+.progress .form-one{
+    width:100%;
+    height:10px;
+    background-color:#00A0E8;
+}
+.progress .quan-one{
+    width:33px;
+    height:33px;
+    text-align: center;
+    line-height:33px;
+    border-radius: 100%;
+    background-color:#00A0E8;
+    position: absolute;
+    top:10%;
+    left:61%;
+    z-index: 10;
+    color:#FFFFFF;
+}
+.firstli p{
+    text-align: center;
+    font-size:15px;
+    margin-left:29%;
+    margin-top:22px;
+}
+.secli{
+    width:23%;
+    height:6.8%;
+    float:left;
+    padding-top:20px;
+}
+.progress .secli .quanc{
+    background-color: #00A0E8;
+}
+.progress .change{
+    background-color: #00A0E8;
+
+}
+.progress .quanc{
+    position: absolute;
+    top:10%;
+    left:45%;
+    background-color:#00A0E8;
+}
+.progress .threeli .change{
+    background-color:#00A0E8;
+}
+.progress .threeli .quanc{
+
+    position: absolute;
+    top:10%;
+    left:32%;
+}
+.secli p{
+    text-align: center;
+    font-size:15px;
+    margin-left:4%;
+    margin-top:22px;
+}
+.progress .threeli p{
+    text-align: center;
+    font-size:15px;
+    margin-left:-100px;
+    margin-top:22px;
+}
+
+/*form开始*/
+.form{
+    width:100%;
+    height:auto;
+    margin-top:120px;
+}
+.formbody {
+    width:1082px;
+    height:158px;
+    margin:0 auto;
+    padding:30px;
+}
+.formbody p span em{
+    color:rgb(255,102,0);
+}
+.formfooter{
+    width:1200px;
+    padding:28px;
+    height:260px;
+    background-color:white;
+    border:1px solid #E8E8E8;
+    margin-top:22px;
+}
+.formfooter a{
+    margin:0 10px;
+}
+.formfooter .lianjie{
+    color:rgb(154,189,219);
+    margin-left:-10px;
+}

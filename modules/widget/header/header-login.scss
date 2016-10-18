@@ -1,0 +1,168 @@
+header.header {
+    a {
+        color: #333;
+        text-decoration: none;
+        font-size: 12px;
+    }
+    a:hover {
+        text-decoration: none;
+    }
+      ul.menu-list li a:hover{
+         color:#00A0E8;
+     }
+    .header_top {
+        width: 100%;
+        border-bottom: 1px solid #e4e4e4;
+    }
+    .special-header_bottom {
+        width: 1200px;
+        margin: 0 auto;
+        height: 35px;
+        line-height: 35px;
+    }
+    .special-header {
+        width: 1200px;
+        height: 100px;
+        margin: 0 auto;
+
+    }
+    .alipay-logo {
+        float: left;
+        height: 55px;
+        width: 150px;
+        background: url("/imgs/header/logo.png") 0 0 no-repeat;
+        margin-top: 25px;
+    }
+    .alipay-logo2 {
+        float: left;
+        height: 55px;
+        width: 150px;
+        background: url("/imgs/header/jicheng.png") 0 0 no-repeat;
+        margin-top: 25px;
+    }
+    .alipay-logo:hover {
+        border: none;
+    }
+    ul.menu-list {
+        float: right;
+    }
+    ul.menu-list li {
+        display: inline-block;
+        zoom: 1;
+        *display: inline;
+    }
+    .special-header_bottom ul.menu-list li~li {
+        margin-left: 35px;
+    }
+    span.username {
+        padding-left: 10px;
+    }
+    .dropdown ul {
+        width: 102px;
+        min-width: 102px;
+    }
+    .dropdown ul li {
+        margin-left: 0;
+        display: block;
+    }
+    .dropdown ul li~li {
+        margin-left: 0;
+    }
+    .nav>li>a {
+        font-size: 18px;
+        display: inherit;
+        padding: 0;
+    }
+    .top ul.menu-list li~li {
+        margin-left: 0;
+    }
+    .dropdown-menu {
+        text-align: center;
+    }
+    .menu-list li span {
+        margin: 0 15px;
+        color: #CCCCCC;
+    }
+    .special-header_bottom ul.menu-list li~li {
+        margin-left: 0;
+    }
+   .navbar-nav{
+        margin: 0;
+    }
+    .navbar-nav li {
+        font-size: 20px;
+        margin-top: 30px;
+        padding: 10px 0 10px 50px;
+    }
+    .special-header .navbar-nav li a:hover {
+        background-color: #fff;
+    }
+    .special-header_bottom ul li a:hover {
+
+        background-color: #fff;
+    }
+    .navbar-inverse .navbar-nav > li > a:focus,
+    .navbar-nav > li > a:active,
+    .navbar-nav > li > a:hover {
+        color: #5ABEEF;
+        background-color: transparent;
+    }
+    .navbar-nav > li > a:visited {
+        background-color: transparent;
+    }
+    .rvm {
+        display: none;
+        position: absolute;
+        top: 98%;
+        right: 0;
+        width: 130px;
+        height: 151px;
+        background-color: #fff;
+        border: 1px solid #e4e4e4;
+        text-align: center;
+        z-index: 11111;
+    }
+}
+//我的银生宝
+body.pagemyunspay ul.navbar-nav li a.myunspay {
+    color: #00A0E8;
+}
+//应用中心
+body.pageappcenter ul.navbar-nav li a.appcenter {
+    color: #00A0E8;
+}
+//交易记录
+body.pageall ul.navbar-nav li a.all {
+    color: #00A0E8;
+}
+//账户管理
+body.pageacctinfo ul.navbar-nav li a.acctinfo1 {
+    color: #00A0E8;
+}
+//安全管理
+body.pagesafe-mgt ul.navbar-nav li a.safe-mgt {
+    color: #00A0E8;
+}
+
+
+
+//公司简介
+body.pagecompany-intro1 ul.navbar-nav li a.company-intro1 {
+    color: #00A0E8;
+}
+//咨询中心
+body.pagecompany-news1 ul.navbar-nav li a.company-news1 {
+    color: #00A0E8;
+}
+//合作伙伴
+body.pagecorperate-banks ul.navbar-nav li a.corperate-banks {
+    color: #00A0E8;
+}
+//法律声明
+body.pagelegel ul.navbar-nav li a.legel1 {
+    color: #00A0E8;
+}
+//联系我们
+body.pagecontactus ul.navbar-nav li a.contactus1 {
+    color: #00A0E8;
+}

@@ -1,0 +1,29 @@
+{
+    "name": "unsfe-ysb-fe-websites",
+    "version": "1.1.1",
+    "description": "银生宝前台个人版改版",
+    "main": "fis-conf.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://gitlab.uns1066.com/uns/unsfe-ysb-fe-websites.git"
+    },
+    "author": {
+        "name": "peter",
+        "email": "taoqianbao@qq.com",
+        "url": "http://192.168.9.20/uns/unsfe-ysb-fe-websites/"
+    },
+    "license": [{
+        "type": "MIT",
+        "url": "http://192.168.9.20/uns/unsfe-ysb-fe-websites/blob/master/MIT-LICENSE.txt"
+    }],
+    "bugs": {
+        "url": "http://192.168.9.20/uns/unsfe-ysb-fe-websites/issues"
+    },
+    "homepage": "http://192.168.9.20/uns/unsfe-ysb-fe-websites/"
+}
